@@ -1,4 +1,4 @@
-
+```
 src/
   one/digitalinnovation/gof/
 	 singleton/      # Implementações do padrão Singleton
@@ -6,7 +6,7 @@ src/
 	 facade/         # Implementação do padrão Facade
 	 factorymethod/  # Implementação do padrão Factory Method
 	 Test.java       # Classe principal para demonstração
-
+```
 # Explorando Padrões de Projeto na Prática com Java
 
 Este repositório apresenta implementações de diversos padrões de projeto clássicos utilizando Java puro, com exemplos práticos e um menu interativo para facilitar a demonstração de cada padrão.
