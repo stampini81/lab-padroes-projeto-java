@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Compilar projeto Java",
+			"type": "shell",
+			"command": "javac -d bin src/one/digitalinnovation/gof/**/*.java src/one/digitalinnovation/gof/Test.java"
+		},
+		{
+			"label": "Remover README_novo.md",
+			"type": "shell",
+			"command": "del README_novo.md"
+		}
+	]
+}
